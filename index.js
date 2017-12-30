@@ -1,7 +1,7 @@
 // Code your solution in this file!
 
 
-distanceFromHqInBlocks(location) {
+function distanceFromHqInBlocks(location) {
   if (location > 42) {
     return location -42
   }
