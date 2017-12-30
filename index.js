@@ -6,10 +6,10 @@ distanceFromHqInBlocks(location) {
     return location -42
   }
   else {
-    42 - location
+    return 42 - location
   }
 }
 
 distanceFromHqInFeet() {
-  
+
 }
